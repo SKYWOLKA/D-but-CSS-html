@@ -16,8 +16,8 @@ box-sizing: border-box;
     width: 50%;
     height: 100% ;
     background-color: #142a8b;
-    display:flex
-    position :absolute;
+    display:flex;
+     position: absolute;
 }
 .LOGO{
     width: 100px;
@@ -34,7 +34,7 @@ box-sizing: border-box;
     width: 100%;
     height: 100% ;
     background-color: #32362dde; 
-    right: 0;
     position:absolute;
-    display: flex;
+       right: 0;
+
 }
