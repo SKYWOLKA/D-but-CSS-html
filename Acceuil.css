@@ -4,3 +4,37 @@ margin:0;
 padding:0;
 box-sizing: border-box;
 }
+.Header{
+    width: 100%;
+    height: 9vh ;
+    background-color: #11d621;
+    border: rgb(0, 23, 128) dashed ;
+    display:flex ;
+    position: relative;
+}
+.gauche{
+    width: 50%;
+    height: 100% ;
+    background-color: #142a8b;
+    display:flex
+    position :absolute;
+}
+.LOGO{
+    width: 100px;
+    height: 100;
+}
+.LOGO-img{
+    width: 50%;
+    height: 50%;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.droite{
+    width: 100%;
+    height: 100% ;
+    background-color: #32362dde; 
+    right: 0;
+    position:absolute;
+    display: flex;
+}
